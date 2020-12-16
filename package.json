@@ -1,6 +1,6 @@
 {
-  "name": "ref-multiple-table",
-  "version": "2.1.4",
+  "name": "qmref-multiple-table",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -18,14 +18,14 @@
     "prepublishOnly": "npm run build"
   },
   "bugs": {
-    "url": "https://github.com/tinper-acs/ref-multiple-table/issues"
+    "url": "https://github.com/48401298/qmref-multiple-table/issues"
   },
-  "homepage": "https://github.com/tinper-acs/ref-multiple-table#readme",
+  "homepage": "https://github.com/48401298/qmref-multiple-table#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinper-acs/ref-multiple-table.git"
+    "url": "git+https://github.com/48401298/qmref-multiple-table.git"
   },
-  "author": "wangxgk@yonyou.com",
+  "author": "wyf_dlqm",
   "license": "MIT",
   "files": [
     "package.json",
@@ -87,7 +87,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-hot-loader": "^4.3.4",
-    "rimraf": "^2.6.2",
+    "rimraf": "^2.7.1",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.22.1",
     "tinper-bee": "^2.0.3",

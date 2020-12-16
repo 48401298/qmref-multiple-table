@@ -9,19 +9,19 @@
 ## 如何使用
 
 ``` sh
-$ ynpm install ref-multiple-table --save
+$ ynpm install qmref-multiple-table --save
 
 引入
 
-import RefMultipleTableBaseUI,{ SearchPanelItem }  from 'ref-multiple-table'
+import RefMultipleTableBaseUI,{ SearchPanelItem }  from 'qmref-multiple-table'
 
 或者
 
-import { RefMultipleTableWithInput } from 'ref-multiple-table'
+import { RefMultipleTableWithInput } from 'qmref-multiple-table'
 
 样式
 
-import 'ref-multiple-table/lib/index.css';
+import 'qmref-multiple-table/lib/index.css';
 
 ```
 

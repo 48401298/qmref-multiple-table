@@ -325,6 +325,7 @@ class RefMultipleTableBase extends Component {
                 total={totalElements}
                 activePage={currPageIndex}
                 onDataNumSelect={_this.props.dataNumSelect}
+                dataNumSelect={['5', '10', '15', '20', '50', '100']}
                 onSelect={_this.props.handlePagination}
                 locale={paginationLocale(lang)}
                 {...paginationProps}
